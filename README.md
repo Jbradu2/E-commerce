@@ -13,8 +13,9 @@
 - [License](#license)
 
   ## Instillation
-  seed the test data and npm run to see how the app works
+  Make sure all neccesarry packages are installed by doing "npm i" in console
 
+ 
   ## Usage
   This code will allow user to make a back end datatbase for an ecommerce store
 
